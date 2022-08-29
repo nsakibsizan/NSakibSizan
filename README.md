@@ -5,7 +5,6 @@
 <h1 align="center">Hi, I'm Najmus Sakib Sizan<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">Tech Coordinator, BuffaloGrid Ltd.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NSakibSizan&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 - 🌱 I’m currently learning Shell.
 
@@ -15,7 +14,7 @@
 
 - 💬 I’m interested in **IoT, Artificial Intelligence, and Machine Learning**
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NSakibSizan&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 ---
 
 
