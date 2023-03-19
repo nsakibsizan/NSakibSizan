@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Najmus Sakib Sizan<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">Tech Coordinator, BuffaloGrid Ltd.</h3>
+<h3 font-size="20" align="center">Software Support Engineer, Desh Universal Pvt. Ltd.</h3>
 
 
 - 🌱 I’m currently learning Shell.
