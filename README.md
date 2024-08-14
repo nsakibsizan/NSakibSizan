@@ -6,13 +6,12 @@
 <h3 font-size="20" align="center">Software Support Engineer, Desh Universal Pvt. Ltd.</h3>
 
 
-- 🌱 I’m currently learning Shell.
+- 🌱 Software Support Engineer @ BJIT Limited..
 
-- 🤝 I’m looking for help with **Research Work**
+- 🤝 I’m providing **Software and Technical Support**
 
 - 👨‍💻 My website: https://sites.google.com/view/najmus-sakib-sizan
 
-- 💬 I’m interested in **IoT, Artificial Intelligence, and Machine Learning**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NSakibSizan&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
