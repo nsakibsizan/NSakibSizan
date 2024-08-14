@@ -6,7 +6,7 @@
 <h3 font-size="20" align="center">Software Support Engineer, Desh Universal Pvt. Ltd.</h3>
 
 
-- 🌱 Software Support Engineer @ BJIT Limited..
+- 🌱 Software Support Engineer @ BJIT Limited.
 
 - 🤝 I’m providing **Software and Technical Support**
 
