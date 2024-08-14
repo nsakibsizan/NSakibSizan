@@ -3,12 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Najmus Sakib Sizan<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">Software Support Engineer, Desh Universal Pvt. Ltd.</h3>
-
-
-- 🌱 Software Support Engineer @ BJIT Limited.
-
-- 🤝 I’m providing **Software and Technical Support**
+<h3 font-size="20" align="center">Software Support Engineer, BJIT Limited </h3>
 
 - 👨‍💻 My website: https://sites.google.com/view/najmus-sakib-sizan
 
