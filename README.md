@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Najmus Sakib Sizan<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">Software Support Engineer, BJIT Limited </h3>
 
-- 👨‍💻 My website: [https://sites.google.com/view/najmus-sakib-sizan](https://nsakibsizan.github.io/)
+- 👨‍💻 My website: [https://nsakibsizan.github.io/](https://nsakibsizan.github.io/)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NSakibSizan&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
